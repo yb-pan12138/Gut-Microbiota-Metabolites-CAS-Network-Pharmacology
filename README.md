@@ -47,7 +47,19 @@ Database retrieval and the principal computational analyses reported in the manu
 
 ## Availability
 
-This is a public research repository associated with the manuscript. Additional processed data and scripts will be added as the submission package is finalized.
+This public research repository contains analysis scripts, processed results, supplementary tables, docking-score data, and reproducibility documentation supporting the associated JoVE protocol.
+
+Currently deposited materials include:
+- GEO differential-expression analysis code.
+- Disease Ontology enrichment-analysis code.
+- KEGG network-construction code.
+- Final SwissADME and ADMETlab supplementary tables.
+- Leave-one-database-out sensitivity-analysis results.
+- Network-topology sensitivity-analysis results.
+- The complete 6 × 6 CB-Dock2 Vina-score table.
+- Data-provenance and reproducibility documentation.
+
+Raw or bulk exports from third-party databases are not redistributed where reuse or redistribution rights are restricted or unclear. These resources should be obtained directly from their original databases under the applicable terms of use.
 
 ## Funding
 
